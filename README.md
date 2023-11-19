@@ -17,23 +17,26 @@
 ## Installation
 
  1. Fork Latest Update in replit [![Run on Repl.it](https://replit.com/badge/github/Ninja-69/MinecraftAfkBot)](https://replit.com/new/github/Ninja-69/MinecraftAfkBot)
- 2. Download & install [Node.JS](https://nodejs.org/en/download/)
- 3. Run `npm install` command in bot directory.
+
  
  ## Usage
  
- 1. Configure bot in `index.js` file. [Bot configuration is explained in our wiki](https://urfate.gitbook.io/afk-bot/bot-configuration)
- 2. Start bot with `node .` command.
+ 1. Configure bot in `index.js` file.
+ 2. First Go To Line `25`, Put Your IP/Host There
+ 3. Than Go To Line `27`, And put your Username There
+ 4. Than Go To Line `28`, And Put Your Port There
+
 
 ## Features
 
- - Anti-AFK Kick Module
- - Move to target block after join
- - Mojang/Microsoft Account support
  - Chat log
  - Chat messages Module
  - Auto reconnect
- - Supported server versions: `1.8 - 1.19.3`
+   
+## REQUIREMENTS
+
+  - Via Plugins
+  - Cracked ON/Online Mode: False
  
  ### License
- [MIT](https://github.com/urFate/Afk-Bot/blob/main/LICENSE)
+ [MIT](https://github.com/Ninja-69/MinecraftAfkBot/blob/main/LICENSE)
