@@ -1,9 +1,9 @@
 # Afk Bot
 <p align="center"> 
-    <img src="https://img.shields.io/github/issues/urfate/afk-bot">
-    <img src="https://img.shields.io/github/forks/urfate/afk-bot">
-    <img src="https://img.shields.io/github/stars/urfate/afk-bot">
-    <img src="https://img.shields.io/github/license/urfate/afk-bot">
+    <img src="https://img.shields.io/github/issues/Ninja-69/MinecraftAfkBot">
+    <img src="https://img.shields.io/github/forks/Ninja-69/MinecraftAfkBot">
+    <img src="https://img.shields.io/github/stars/Ninja-69/MinecraftAfkBot">
+    <img src="https://img.shields.io/github/license/Ninja-69/MinecraftAfkBot">
 </p>
 
 <p align="center">
