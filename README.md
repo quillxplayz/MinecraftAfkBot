@@ -37,6 +37,11 @@
 
   - Via Plugins
   - Cracked ON/Online Mode: False
+
+ ## LINKS
+
+ - discord - https://dsc.gg/itzmeninja 
+ - YT CHANNEL - https://www.youtube.com/@itzmeninja000
  
  ### License
  [MIT](https://github.com/Ninja-69/MinecraftAfkBot/blob/main/LICENSE)
